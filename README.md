@@ -1,6 +1,5 @@
 # BrenSkid
 
-A Non Serious Roblox Exploit Which Is Very Basic And Was Made For Jokes. But It Does Work.
+A Non Serious Roblox Exploit Which Is Very Basic And Was Made For Jokes. Possibly Working
 
-I Made This In Like 5 Minutes lmao
-
+Based On EasyExploits API
